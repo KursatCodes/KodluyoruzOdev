@@ -1,2 +1,2 @@
 # KodluyoruzOdev
-Kodluyoruz Not ortalaması hesaplayan program için oluşturulmuştur.
+Kodluyoruz ödevleri için oluşturulmuştur.
